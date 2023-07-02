@@ -1,0 +1,10 @@
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\winformcsharp\bin\Debug\winformcsharp.exe.config
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\winformcsharp\bin\Debug\winformcsharp.exe
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\winformcsharp\bin\Debug\winformcsharp.pdb
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\winformcsharp\obj\Debug\winformcsharp.csproj.AssemblyReference.cache
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\winformcsharp\obj\Debug\winformcsharp.Form1.resources
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\winformcsharp\obj\Debug\winformcsharp.Properties.Resources.resources
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\winformcsharp\obj\Debug\winformcsharp.csproj.GenerateResource.cache
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\winformcsharp\obj\Debug\winformcsharp.csproj.CoreCompileInputs.cache
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\winformcsharp\obj\Debug\winformcsharp.exe
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\winformcsharp\obj\Debug\winformcsharp.pdb

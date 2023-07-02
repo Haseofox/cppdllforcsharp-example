@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  dllmain.cpp
+  testheader.cpp
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\testDll1\testheader.cpp(5,1): warning C4273: 'Strcat': inconsistent dll linkage
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\testDll1\testheader.h(25,17): message : see previous definition of 'Strcat'
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\testDll1\testheader.cpp(11,1): warning C4273: 'Strcpy': inconsistent dll linkage
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\testDll1\testheader.h(26,17): message : see previous definition of 'Strcpy'
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\testDll1\testheader.cpp(16,1): warning C4273: 'pipecommand': inconsistent dll linkage
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\testDll1\testheader.h(28,17): message : see previous definition of 'pipecommand'
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\testDll1\testheader.cpp(33,1): warning C4273: 'Saysomething': inconsistent dll linkage
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\testDll1\testheader.h(29,17): message : see previous definition of 'Saysomething'
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\testDll1\testheader.cpp(38,1): warning C4273: 'add': inconsistent dll linkage
+E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\testDll1\testheader.h(27,16): message : see previous definition of 'add'
+  Generating Code...
+     Creating library E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\testDll1\Debug\testDll1.lib and object E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\testDll1\Debug\testDll1.exp
+  testDll1.vcxproj -> E:\Luthfy Haseofox\Wissen Knowledge\Arbeit Programm und Beispiel Quellcode\BIESPIELCODE ODER REFERENZQUELL CODE\Visual Studio\Testdllcpp\testDll1\Debug\testDll1.dll
